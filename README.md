@@ -1,10 +1,10 @@
 ## Seja bem-vindo(a) ao meu perfil! 🥰💜
 
-## • 💜 Apaixonada por tecnologia!
-## • ⭐ Foco em desenvolvimento Web Full-Stack
-## • 🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas
-## • ✉️ nicoleeevlc@gmail.com
-## • 👤 INFJ ┃ Ela/dela
+-  💜 Apaixonada por tecnologia!
+-  ⭐ Foco em desenvolvimento Web Full-Stack
+-  🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas
+-  ✉️ nicoleeevlc@gmail.com
+-  👤 INFJ ┃ Ela/dela
 
  <div>
    <a href="https://github.com/nicolevlc">
