@@ -1,4 +1,10 @@
-## Bem-vindo(a) ao perfil da Nicole Volcian Ascenção! 🥰
+## Seja bem-vindo(a) ao meu perfil! 🥰💜
+
+## • 💜 Apaixonada por tecnologia!
+## • ⭐ Foco em desenvolvimento Web Full-Stack
+## • 🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas
+## • ✉️ nicoleeevlc@gmail.com
+## • 👤 INFJ ┃ Ela/dela
 
  <div>
    <a href="https://github.com/nicolevlc">
@@ -17,9 +23,7 @@
 ### Para contato, segue as redes sociais abaixo!
  
 <div> 
-  <a href="https://www.youtube.com/channel/UCuFwOeqqMHG1Pey-28gwsnQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/onlyshiiny" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/NKdz5bRT6k" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:nicoleeevlc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nicole-volcian-ascen%C3%A7%C3%A3o-335363270/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
