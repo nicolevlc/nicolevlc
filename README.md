@@ -1,13 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=b57edc&fontColor=ffffff&height=70&section=header"/>
 
-## Seja bem-vindo(a) ao meu perfil! 🥰💜
+## Welcome to my profile! 🥰💜
 
-- 💜 Apaixonada por tecnologia!
-- 🛡️ Interessada em **Cibersegurança** e fundamentos de **Pentesting**
-- 🎯 Em transição do desenvolvimento Web para a área de segurança ofensiva e defensiva
-- 🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas**
-- ✉️ nicoleeevlc@gmail.com
-- 👤 INFJ ┃ Ela/dela
+- 💜 Passionate about technology  
+- 🛡️ Passionate about **Cybersecurity**, currently studying the fundamentals of **Penetration Testing**  
+- 🎯 Transitioning from a background in Technical Support and Web Development studies toward a career in **Offensive and Defensive Security**  
+- 🎓 Currently pursuing a degree in **Systems Analysis and Development**  
+- 👤 INFJ ┃ She/Her  
 
 <br>
 
@@ -18,7 +17,7 @@
 
 <br>
 
-### 🧠 Tecnologias e Ferramentas
+### 🧠 Technologies and Tools
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -31,10 +30,10 @@
 
 <br>
 
-### 📬 Para contato, segue as redes sociais abaixo!
+### 📬 Feel free to connect with me through the links below!
 
 <div align="left"> 
-  <a href="https://instagram.com/onlyshiiny" target="_blank">
+  <a href="https://instagram.com/nicole.vlcx" target="_blank">
     <img src="https://img.shields.io/badge/-INSTAGRAM-b57edc?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="mailto:nicoleeevlc@gmail.com">
