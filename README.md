@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=b57edc&fontColor=ffffff&height=100&section=header&text=Nicole%20Volcian&fontSize=28&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=b57edc&fontColor=ffffff&height=100&section=header&fontSize=28&animation=fadeIn"/>
 
 ## Olá! 👋🏻💜
 
