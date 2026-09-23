@@ -2,13 +2,13 @@
 
 ## Olá! 👋🏻💜
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e profissional de Tecnologia da Informação, com experiência em **QA, Testes de Software, Análise de Requisitos e Suporte de TI**.
+Sou formada de **Análise e Desenvolvimento de Sistemas** e profissional de Tecnologia da Informação, com experiência em **QA, Testes de Software, Análise de Requisitos e Suporte de TI**.
 
-Atualmente, meu foco profissional está em **Qualidade de Software**, buscando aprimorar cada vez mais meus conhecimentos em testes, análise de sistemas, requisitos e processos de desenvolvimento.
+Atualmente, meu foco profissional está em **Qualidade de Software**, buscando evoluir cada vez mais meus conhecimentos em testes, análise de sistemas, requisitos e processos de desenvolvimento.
 
 ### 💻 Sobre mim
 
-* 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+* 🎓 Tecnóloga **Análise e Desenvolvimento de Sistemas**
 * 🧪 Experiência com **Testes Manuais, Testes Funcionais e Testes de Regressão**
 * 🔎 Experiência com **Análise e Levantamento de Requisitos**
 * 🐞 Identificação, investigação e documentação de inconsistências e bugs
